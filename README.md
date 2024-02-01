@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**UguSama/UguSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I'm 23, game programmer
+>
+> I'm interested in Tools, UI / UX and looking to learn VFX
+>
+> Currently studying at Game Academy in France
 
-Here are some ideas to get you started:
+# 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages** : C++, C#
+- **API/Framework** : SFML
+- **Game engines** : Unity, Unreal Engine
+- **Versionning** : Github Desktop, Perforce Helix
+- **Graphics Tools** : Photoshop, Figma
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-messina-ricotta/)
+[![X](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/UguLeVrai)

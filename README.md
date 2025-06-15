@@ -1,10 +1,8 @@
 # Hello there 👋
 
-> I'm 23, game programmer
+> I'm 25, game programmer
 >
-> I'm interested in Tools, UI / UX and looking to learn VFX
->
-> Currently studying at Game Academy in France
+> I'm interested in GameplaySystem / Tool / AI
 
 # 🛠 Skills
 
